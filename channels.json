@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mahar TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgu4V8yXI05MjbE034Pf4LICOeFEdIXiYaZNBCNKr1g&s=10",
+    "url": "http://edge-stream.mahar.com/live/playlist.m3u8",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Channel ME",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVlgHk_v1jr0OgpHtND8wiubYU5Nfk-IITGJuBauYnA&s=10",
+    "url": "https://live.channelme.com/stream.m3u8",
+    "category": "News"
+  }
+]
