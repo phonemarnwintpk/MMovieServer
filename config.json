@@ -7,7 +7,7 @@
   
   "version_control": {
     "latest_version_code": 1,
-    "force_update": false,
+    "force_update": true,
     "update_title": "Version အသစ်ထွက်နေပါပြီ!",
     "update_message": "Bug တွေရှင်းထားပြီး Feature အသစ်တွေပါဝင်ပါတယ်။",
     "update_url": "https://play.google.com/store/apps/details?id=com.my.moviescraper"
