@@ -1,6 +1,6 @@
 {
   "app_config": {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "Server ပြုပြင်နေပါသည်၊ ခေတ္တစောင့်ဆိုင်းပေးပါ။",
     "contact_us_url": "https://t.me/your_telegram"
   },
