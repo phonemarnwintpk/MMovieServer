@@ -1,8 +1,57 @@
 {
-  "maintenance_mode": false,
-  "maintenance_message": "Server ပြုပြင်နေပါသည်၊ ခေတ္တစောင့်ဆိုင်းပေးပါ။",
-  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36...",
-  "base_url_homie": "https://homietv.com",
-  "base_url_ysflix": "https://ysflix.com"
-}
+  "app_config": {
+    "maintenance_mode": false,
+    "maintenance_message": "Server ပြုပြင်နေပါသည်၊ ခေတ္တစောင့်ဆိုင်းပေးပါ။",
+    "contact_us_url": "https://t.me/your_telegram"
+  },
+  
+  "version_control": {
+    "latest_version_code": 1,
+    "force_update": false,
+    "update_title": "Version အသစ်ထွက်နေပါပြီ!",
+    "update_message": "Bug တွေရှင်းထားပြီး Feature အသစ်တွေပါဝင်ပါတယ်။",
+    "update_url": "https://play.google.com/store/apps/details?id=com.my.moviescraper"
+  },
 
+  "startup_popup": {
+    "show_popup": true,
+    "image_url": "https://i.imgur.com/ExampleImage.jpg",
+    "link_url": "https://example.com",
+    "popup_message": "Welcome to our Movie App! Join our Telegram."
+  },
+
+  "home_sliders": [
+    {
+      "image": "https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHkjJDveYoW.jpg",
+      "action_type": "open_url",
+      "value": "https://google.com",
+      "title": "Google Search"
+    },
+    {
+      "image": "https://image.tmdb.org/t/p/w500/8RpDcs6KTProjectwO.jpg",
+      "action_type": "play_movie",
+      "value": "https://homietv.com/movie/oppenheimer",
+      "title": "Oppenheimer"
+    }
+  ],
+
+  "ads_control": {
+    "show_admob": false,
+    "show_custom_ads": true,
+    "custom_ad_image": "https://example.com/betting_ad.jpg",
+    "custom_ad_link": "https://1xbet.com"
+  },
+
+  "anti_detection": {
+    "user_agents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+    ]
+  },
+
+  "scraper_scripts": {
+    "homietv_js": "var title = document.querySelector('h1').innerText; ...",
+    "ysflix_js": "var title = document.title; ..."
+  }
+}
