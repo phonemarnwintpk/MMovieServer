@@ -7,7 +7,7 @@
   
   "version_control": {
     "latest_version_code": 1,
-    "force_update": true,
+    "force_update": false,
     "update_title": "Version အသစ်ထွက်နေပါပြီ!",
     "update_message": "Bug တွေရှင်းထားပြီး Feature အသစ်တွေပါဝင်ပါတယ်။",
     "update_url": "https://play.google.com/store/apps/details?id=com.my.moviescraper"
@@ -15,7 +15,7 @@
 
   "startup_popup": {
     "show_popup": true,
-    "image_url": "https://i.imgur.com/ExampleImage.jpg",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9L8j1XLNivP5HX8mPotPXuiJkM2HUcH3gbOW2TwBZm5SYUb7NbEkuSaD&s=10",
     "link_url": "https://example.com",
     "popup_message": "Welcome to our Movie App! Join our Telegram."
   },
