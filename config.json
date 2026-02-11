@@ -37,7 +37,13 @@
       "image": "https://media.homietv.com/file/all-asset-uploads/org_photos/cm-app-media-two/movies/2026-02-10/y0t53XosZnJ5wjiORvZqobZPmJF.jpg",
       "action_type": "play_movie",
       "value": "https://www.homietv.com/movie/hijacked-aka-tu-chien-tren-khong-61znpowe",
-      "title": "Oppenheimer"
+      "title": "Hijacked (aka) Tử Chiến Trên Không"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-VLEYOluTnafezAAGiAQOF_N5WzlUZnRhbh07FuT8yjIuCA5OzfNCUaz&s=10",
+      "action_type": "play_movie",
+      "value": "https://www.homietv.com/movie/terry-mcmillan-presents-preach-pray-love-np9qxc8b",
+      "title": "Terry McMillan Presents: Preach, Pray, Love"
     }
   ],
 
