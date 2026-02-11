@@ -15,15 +15,15 @@
 
     "startup_popup": {
     "show_popup": true,
-    "image_url": "https://example.com/poster.jpg",
-    "popup_message": "Diabolical ဇာတ်ကားသစ် ရောက်ပါပြီ။",
+    "image_url": "https://media.homietv.com/file/all-asset-uploads/org_photos/cm-app-media-two/movies/2026-02-10/4oIIM7i4sFPyGFWP0GYZo3pNAH7.jpg",
+    "popup_message": "Cinderella and the Secret Prince ဇာတ်ကားသစ် ရောက်ပါပြီ။",
     
     "button_text": "Watch Movie", 
     "action_type": "movie",       
     
     "action_value": "https://homietv.com/movie/diabolical",
-    "movie_title": "Diabolical",
-    "movie_poster": "https://example.com/poster.jpg"
+    "movie_title": "Cinderella and the Secret Prince",
+    "movie_poster": "https://media.homietv.com/file/all-asset-uploads/org_photos/cm-app-media-two/movies/2026-02-10/4oIIM7i4sFPyGFWP0GYZo3pNAH7.jpg"
   },
 
   "home_sliders": [
